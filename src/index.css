@@ -8,12 +8,12 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: Arial, monospace;
 }
 
 input,
 textarea {
+  font-family: Arial;
   border-radius: 3px;
   border: 1px solid #ccc;
   padding: 3px;
