@@ -105,6 +105,8 @@ textarea {
   height: 40px;
   background-color: #d9534f;
   border-color: #d43f3a;
+  color: white;
+  cursor: pointer;
 }
 
 .delete-btn:active,
@@ -113,6 +115,7 @@ textarea {
 }
 
 .edit-btn {
+  cursor: pointer;
   margin: 15px;
   width: 120px;
   height: 40px;
@@ -230,10 +233,12 @@ textarea {
   width: 120px;
   height: 40px;
   background-color: #337ab7;
+  color: white;
+  cursor: pointer;
 }
 
 .add-recipe-button:hover {
-  background-color: #001f3f;
+  background-color: #697e92;
 }
 
 .close-form-button {
