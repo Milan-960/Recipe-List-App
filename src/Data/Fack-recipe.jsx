@@ -5,7 +5,7 @@ var FakeRecipe = [
   },
   {
     name: "Onion Pie",
-    ingredients: ["Noodles", "Tomato Sauce"],
+    ingredients: ["Noodles"],
   },
 ];
 

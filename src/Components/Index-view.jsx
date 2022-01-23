@@ -4,7 +4,7 @@ import RecipeListing from "./Recipe-listing";
 class IndexView extends Component {
   render() {
     if (this.props.recipeBank === "") {
-      return <div>List Loading...</div>;
+      return <div>List is Loading...</div>;
     } else {
       return (
         <div className="IndexView">
